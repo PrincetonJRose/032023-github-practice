@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h1>
+          Whoa baby, this is totally different text from last time. What will happen if I try to merge???? 🤔
+        </h1>
       </header>
     </div>
   );
