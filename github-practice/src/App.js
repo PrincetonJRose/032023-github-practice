@@ -24,6 +24,13 @@ function App() {
           Whoa baby, this is totally different text from last time. What will happen if I try to merge???? 🤔
 
         </h1>
+        <p>
+          I'm not spaced strangely. Isn't that great! 😊
+        </p>
+
+        <p>
+          But I want to keep all this stuff.
+        </p>
       </header>
     </div>
   );
