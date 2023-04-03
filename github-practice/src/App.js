@@ -18,7 +18,11 @@ function App() {
           Learn React
         </a>
         <h1>
+
           Hi class!!! This is JSX. I can put html directly into my JavaScript files with React! How cool!!!
+
+          Whoa baby, this is totally different text from last time. What will happen if I try to merge???? 🤔
+
         </h1>
       </header>
     </div>
